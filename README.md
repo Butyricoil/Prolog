@@ -1,0 +1,1 @@
+# Uneversity prolog labs
